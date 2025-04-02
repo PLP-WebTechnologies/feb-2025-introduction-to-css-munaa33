@@ -1,0 +1,43 @@
+/* style.css */
+
+/* Selector 1: Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; 
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Selector 2: Class selector for header */
+  .header {
+    text-align: center;
+    color: #4CAF50;
+    margin-top: 20px;
+    font-size: 36px; 
+  }
+  
+  /* Selector 3: ID selector for the main content */
+  #main-content {
+    padding: 20px;
+    margin: 30px;
+    background-color: #ffffff; 
+    border: 2px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  /* Style for the image */
+  #main-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Class selector for paragraphs */
+  .text {
+    line-height: 1.6;
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  
